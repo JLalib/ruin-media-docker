@@ -1,4 +1,5 @@
 version: '3.8'
+
 services:
   ruin-media:
     image: korosys/ruin.media:latest
